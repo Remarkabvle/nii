@@ -13,4 +13,4 @@ function decrement() {
 
 function reloadPage() {
     location.reload();
-}
+}   
